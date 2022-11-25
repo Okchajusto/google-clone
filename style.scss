@@ -1,0 +1,53 @@
+
+.rest_page {
+    text-align: center;
+    padding: 10px;
+    .input_txt{
+        padding: 10px;
+        margin: 10px;
+        border-radius: 30Px;
+        width: 80%;
+        border: 2px solid green;
+    }
+    .submit_cta{
+        margin: 2PX;
+        padding: 10px;
+        width: 30%;
+        border: 2px solid green;
+        color: rgb(201, 39, 39);
+        border-radius: 30Px;
+        cursor: pointer;
+
+    }
+}
+.opening_txt{
+    p{
+        text-align: center;
+        color: green;
+        font-size: x-large;
+    }
+}
+.nav_bar{
+    .container{
+        text-align: right;
+        
+        
+        a{
+            text-decoration: none;
+            list-style-type: none;
+            padding: 10px;
+            color: rgb(206, 14, 14);
+            border: 2px solid green;
+            border-radius: 30px;
+            
+            
+            
+        }
+    }
+}
+a:hover{
+    background-color: gray;
+}
+body{
+    background-color: rgb(203, 198, 198);
+}
